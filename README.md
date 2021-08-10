@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-main-branchで編集(rebase用)
+rebase-branchで編集(rebaseコンフリクト用)

@@ -3,4 +3,4 @@
 rebase-branchで編集(rebaseコンフリクト用)
 
 rebase　pull用
-stash練習
+stash練習 トラック済み
